@@ -1,2 +1,5 @@
 # helloworld
-Just an example for class.
+
+## Hello World
+
+### Just an example for class.
